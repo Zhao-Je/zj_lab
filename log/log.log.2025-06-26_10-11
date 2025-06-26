@@ -1,0 +1,2 @@
+2025-06-26 10:11:32,835 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//*[@id='dlg2']/div/div/div[2]/a")
+2025-06-26 10:11:53,080 INFO [root] [base.py (base_click:46] - 点击('xpath', "//*[@id='dlg2']/div/div/div[2]/a")操作

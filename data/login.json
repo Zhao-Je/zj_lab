@@ -1,0 +1,33 @@
+{
+  "login_000": {
+    "username": "19132057244",
+    "password": "A984005488",
+    "success": true,
+    "expect_result": null
+  },
+  "login_001": {
+    "username": "19132057244",
+    "password": "shs09211",
+    "success": false,
+    "expect_result": "用户名或密码错误"
+  },
+  "login_002": {
+    "username": "1513597422",
+    "password": "123",
+    "success": false,
+    "expect_result": "密码格式错误"
+  },
+  "login_003": {
+    "username": "12144141",
+    "password": "",
+    "success": false,
+    "expect_result": "请输入密码"
+  },
+  "login_004": {
+    "username": "",
+    "password": "shs09211",
+    "success": false,
+    "expect_result": "请输入手机/邮箱/用户名"
+  }
+
+}

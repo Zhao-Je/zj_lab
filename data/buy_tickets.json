@@ -1,0 +1,28 @@
+{
+  "buy_ticket_001":{ "start_station":"北京",
+                "arrive_station": "上海",
+                "time": "2025-06-27",
+                "name":"孙海森",
+                "boardcard":"correct id",
+                "phone": "correct phone",
+                "success": false,
+                "except_result":"请正确填写所有内容"},
+    "buy_ticket_002":{ "start_station":"北京",
+                "arrive_station": "山西",
+                "time": "2025-06-28",
+                "name":"赵三",
+                "boardcard":"wrong id",
+                "phone": "13453371985",
+                "success": false,
+                "except_result":"请正确填写所有内容"},
+
+      "buy_ticket_003":{ "start_station":"重庆",
+                "arrive_station": "深圳",
+                "time": "2025-06-29",
+                "name":"李四",
+                "boardcard":"142725199908214898",
+                "phone": "13453371973",
+                "success": false,
+                "except_result":"请正确填写所有内容"}
+
+}
