@@ -1,0 +1,260 @@
+2025-06-26 10:15:27,554 WARNING [selenium.webdriver.common.selenium_manager] [selenium_manager.py (_process_logs:138] - Exception managing chrome: error sending request for url (https://googlechromelabs.github.io/chrome-for-testing/known-good-versions-with-downloads.json)
+2025-06-26 10:15:29,715 INFO [root] [base.py (__init__:21] - 初始化driver
+2025-06-26 10:15:29,715 INFO [root] [base.py (__init__:21] - 初始化driver
+2025-06-26 10:15:29,715 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//div[contains(text(), '关于去哪儿')]")
+2025-06-26 10:15:29,798 INFO [root] [base.py (base_click:46] - 点击('xpath', "//div[contains(text(), '关于去哪儿')]")操作
+2025-06-26 10:15:29,809 INFO [root] [base.py (base_change_window:63] - 切换窗口
+2025-06-26 10:15:29,811 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//a[text()='登录']")
+2025-06-26 10:15:32,724 INFO [root] [base.py (base_click:46] - 点击('xpath', "//a[text()='登录']")操作
+2025-06-26 10:15:32,724 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//div[text()='密码登录']")
+2025-06-26 10:15:32,782 INFO [root] [base.py (base_click:46] - 点击('xpath', "//div[text()='密码登录']")操作
+2025-06-26 10:15:32,782 INFO [root] [base.py (base_find_element:27] - 查找元素('css selector', '#username')
+2025-06-26 10:15:32,845 INFO [root] [base.py (base_input:74] - ('css selector', '#username')输入
+2025-06-26 10:15:32,845 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//input[@placeholder='密码']")
+2025-06-26 10:15:32,893 INFO [root] [base.py (base_input:74] - ('xpath', "//input[@placeholder='密码']")输入
+2025-06-26 10:15:32,893 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//input[@id='agreement']")
+2025-06-26 10:15:32,922 INFO [root] [base.py (base_click:46] - 点击('xpath', "//input[@id='agreement']")操作
+2025-06-26 10:15:32,922 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//div[@class='button' and @role='button']/span[text()='登录']")
+2025-06-26 10:15:32,953 INFO [root] [base.py (base_click:46] - 点击('xpath', "//div[@class='button' and @role='button']/span[text()='登录']")操作
+2025-06-26 10:15:32,953 INFO [root] [base.py (base_find_element:27] - 查找元素('css selector', '#username')
+2025-06-26 10:15:32,961 INFO [root] [base.py (base_is_input_empty:138] - 判断输入框('css selector', '#username')是否为空
+2025-06-26 10:15:32,961 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//input[@placeholder='密码']")
+2025-06-26 10:15:32,967 INFO [root] [base.py (base_is_input_empty:138] - 判断输入框('xpath', "//input[@placeholder='密码']")是否为空
+2025-06-26 10:15:32,967 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//input[@id='agreement']")
+2025-06-26 10:15:32,970 INFO [root] [base.py (base_is_checkbox_checked:144] - 判断复选框('xpath', "//input[@id='agreement']")是否为空
+2025-06-26 10:15:32,980 INFO [root] [base.py (base_find_element:27] - 查找元素('css selector', '.OQphwVk_QrhLuedI5-Jme')
+2025-06-26 10:15:32,986 INFO [root] [base.py (base_find_element:27] - 查找元素('css selector', '.NrgjHeg7YBdiFd3U9T_j_')
+2025-06-26 10:15:34,990 INFO [root] [base.py (base_move:110] - 拖动滑块
+2025-06-26 10:15:36,272 INFO [root] [base.py (base_move_to_empty_space:118] - 移动到空白处
+2025-06-26 10:15:36,272 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//b[text()='火车票']")
+2025-06-26 10:15:37,478 INFO [root] [base.py (base_click:46] - 点击('xpath', "//b[text()='火车票']")操作
+2025-06-26 10:15:37,478 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//input[@name='fromStation']")
+2025-06-26 10:15:37,533 INFO [root] [base.py (base_input:74] - ('xpath', "//input[@name='fromStation']")输入
+2025-06-26 10:15:37,533 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//input[@name='toStation']")
+2025-06-26 10:15:37,575 INFO [root] [base.py (base_input:74] - ('xpath', "//input[@name='toStation']")输入
+2025-06-26 10:15:37,576 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//input[@name='date']")
+2025-06-26 10:15:37,584 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//button[@name='stsSearch']")
+2025-06-26 10:15:38,951 INFO [root] [base.py (base_click:46] - 点击('xpath', "//button[@name='stsSearch']")操作
+2025-06-26 10:15:38,951 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//span[text()='购\xa0\xa0买']")
+2025-06-26 10:15:40,027 INFO [root] [base.py (base_click:46] - 点击('xpath', "//span[text()='购\xa0\xa0买']")操作
+2025-06-26 10:15:40,027 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//input[@class='inp_txt']")
+2025-06-26 10:15:41,715 INFO [root] [base.py (base_input:74] - ('xpath', "//input[@class='inp_txt']")输入
+2025-06-26 10:15:41,715 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//input[@name='pCertNo_0']")
+2025-06-26 10:15:41,764 INFO [root] [base.py (base_input:74] - ('xpath', "//input[@name='pCertNo_0']")输入
+2025-06-26 10:15:41,764 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//input[@type='text' and @name='contact_name']")
+2025-06-26 10:15:41,807 INFO [root] [base.py (base_input:74] - ('xpath', "//input[@type='text' and @name='contact_name']")输入
+2025-06-26 10:15:41,807 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//input[@type='text' and @name='contact_phone']")
+2025-06-26 10:15:41,851 INFO [root] [base.py (base_input:74] - ('xpath', "//input[@type='text' and @name='contact_phone']")输入
+2025-06-26 10:15:41,851 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', '/html/body/form/div[2]/div[2]/div[4]/div[2]/div[3]/button')
+2025-06-26 10:15:41,888 INFO [root] [base.py (base_click:46] - 点击('xpath', '/html/body/form/div[2]/div[2]/div[4]/div[2]/div[3]/button')操作
+2025-06-26 10:15:41,889 INFO [root] [base.py (base_get_text:79] - ('xpath', "//div[@class='retitle']")获取文本
+2025-06-26 10:15:41,889 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//div[@class='retitle']")
+2025-06-26 10:15:42,918 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//b[text()='确定']")
+2025-06-26 10:15:42,967 INFO [root] [base.py (base_click:46] - 点击('xpath', "//b[text()='确定']")操作
+2025-06-26 10:15:43,608 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//b[text()='火车票']")
+2025-06-26 10:15:44,406 INFO [root] [base.py (base_click:46] - 点击('xpath', "//b[text()='火车票']")操作
+2025-06-26 10:15:44,406 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//input[@name='fromStation']")
+2025-06-26 10:15:44,966 INFO [root] [base.py (base_input:74] - ('xpath', "//input[@name='fromStation']")输入
+2025-06-26 10:15:44,967 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//input[@name='toStation']")
+2025-06-26 10:15:45,010 INFO [root] [base.py (base_input:74] - ('xpath', "//input[@name='toStation']")输入
+2025-06-26 10:15:45,011 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//input[@name='date']")
+2025-06-26 10:15:45,017 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//button[@name='stsSearch']")
+2025-06-26 10:15:46,401 INFO [root] [base.py (base_click:46] - 点击('xpath', "//button[@name='stsSearch']")操作
+2025-06-26 10:15:46,402 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//span[text()='购\xa0\xa0买']")
+2025-06-26 10:15:46,992 INFO [root] [base.py (base_click:46] - 点击('xpath', "//span[text()='购\xa0\xa0买']")操作
+2025-06-26 10:15:46,992 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//input[@class='inp_txt']")
+2025-06-26 10:15:49,000 INFO [root] [base.py (base_input:74] - ('xpath', "//input[@class='inp_txt']")输入
+2025-06-26 10:15:49,000 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//input[@name='pCertNo_0']")
+2025-06-26 10:15:49,036 INFO [root] [base.py (base_input:74] - ('xpath', "//input[@name='pCertNo_0']")输入
+2025-06-26 10:15:49,037 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//input[@type='text' and @name='contact_name']")
+2025-06-26 10:15:49,073 INFO [root] [base.py (base_input:74] - ('xpath', "//input[@type='text' and @name='contact_name']")输入
+2025-06-26 10:15:49,073 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//input[@type='text' and @name='contact_phone']")
+2025-06-26 10:15:49,118 INFO [root] [base.py (base_input:74] - ('xpath', "//input[@type='text' and @name='contact_phone']")输入
+2025-06-26 10:15:49,118 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', '/html/body/form/div[2]/div[2]/div[4]/div[2]/div[3]/button')
+2025-06-26 10:15:49,146 INFO [root] [base.py (base_click:46] - 点击('xpath', '/html/body/form/div[2]/div[2]/div[4]/div[2]/div[3]/button')操作
+2025-06-26 10:15:49,146 INFO [root] [base.py (base_get_text:79] - ('xpath', "//div[@class='retitle']")获取文本
+2025-06-26 10:15:49,146 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//div[@class='retitle']")
+2025-06-26 10:15:50,176 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//b[text()='确定']")
+2025-06-26 10:15:50,203 INFO [root] [base.py (base_click:46] - 点击('xpath', "//b[text()='确定']")操作
+2025-06-26 10:15:51,034 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//b[text()='火车票']")
+2025-06-26 10:15:51,891 INFO [root] [base.py (base_click:46] - 点击('xpath', "//b[text()='火车票']")操作
+2025-06-26 10:15:51,891 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//input[@name='fromStation']")
+2025-06-26 10:15:52,463 INFO [root] [base.py (base_input:74] - ('xpath', "//input[@name='fromStation']")输入
+2025-06-26 10:15:52,463 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//input[@name='toStation']")
+2025-06-26 10:15:52,505 INFO [root] [base.py (base_input:74] - ('xpath', "//input[@name='toStation']")输入
+2025-06-26 10:15:52,505 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//input[@name='date']")
+2025-06-26 10:15:52,512 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//button[@name='stsSearch']")
+2025-06-26 10:15:53,816 INFO [root] [base.py (base_click:46] - 点击('xpath', "//button[@name='stsSearch']")操作
+2025-06-26 10:15:53,816 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//span[text()='购\xa0\xa0买']")
+2025-06-26 10:15:54,391 INFO [root] [base.py (base_click:46] - 点击('xpath', "//span[text()='购\xa0\xa0买']")操作
+2025-06-26 10:15:54,391 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//input[@class='inp_txt']")
+2025-06-26 10:15:56,088 INFO [root] [base.py (base_input:74] - ('xpath', "//input[@class='inp_txt']")输入
+2025-06-26 10:15:56,088 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//input[@name='pCertNo_0']")
+2025-06-26 10:15:56,142 INFO [root] [base.py (base_input:74] - ('xpath', "//input[@name='pCertNo_0']")输入
+2025-06-26 10:15:56,143 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//input[@type='text' and @name='contact_name']")
+2025-06-26 10:15:56,180 INFO [root] [base.py (base_input:74] - ('xpath', "//input[@type='text' and @name='contact_name']")输入
+2025-06-26 10:15:56,180 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//input[@type='text' and @name='contact_phone']")
+2025-06-26 10:15:56,221 INFO [root] [base.py (base_input:74] - ('xpath', "//input[@type='text' and @name='contact_phone']")输入
+2025-06-26 10:15:56,221 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', '/html/body/form/div[2]/div[2]/div[4]/div[2]/div[3]/button')
+2025-06-26 10:15:56,248 INFO [root] [base.py (base_click:46] - 点击('xpath', '/html/body/form/div[2]/div[2]/div[4]/div[2]/div[3]/button')操作
+2025-06-26 10:15:56,248 INFO [root] [base.py (base_get_text:79] - ('xpath', "//div[@class='retitle']")获取文本
+2025-06-26 10:15:56,248 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//div[@class='retitle']")
+2025-06-26 10:15:57,283 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//b[text()='确定']")
+2025-06-26 10:15:57,316 INFO [root] [base.py (base_click:46] - 点击('xpath', "//b[text()='确定']")操作
+2025-06-26 10:16:00,786 WARNING [selenium.webdriver.common.selenium_manager] [selenium_manager.py (_process_logs:138] - Exception managing chrome: error sending request for url (https://googlechromelabs.github.io/chrome-for-testing/known-good-versions-with-downloads.json)
+2025-06-26 10:16:02,095 INFO [root] [base.py (__init__:21] - 初始化driver
+2025-06-26 10:16:02,095 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//div[contains(text(), '关于去哪儿')]")
+2025-06-26 10:16:02,726 INFO [root] [base.py (base_click:46] - 点击('xpath', "//div[contains(text(), '关于去哪儿')]")操作
+2025-06-26 10:16:02,738 INFO [root] [base.py (base_change_window:63] - 切换窗口
+2025-06-26 10:16:02,738 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//a[text()='登录']")
+2025-06-26 10:16:05,056 INFO [root] [base.py (base_click:46] - 点击('xpath', "//a[text()='登录']")操作
+2025-06-26 10:16:05,056 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//div[text()='密码登录']")
+2025-06-26 10:16:05,089 INFO [root] [base.py (base_click:46] - 点击('xpath', "//div[text()='密码登录']")操作
+2025-06-26 10:16:05,089 INFO [root] [base.py (base_find_element:27] - 查找元素('css selector', '#username')
+2025-06-26 10:16:05,154 INFO [root] [base.py (base_input:74] - ('css selector', '#username')输入
+2025-06-26 10:16:05,154 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//input[@placeholder='密码']")
+2025-06-26 10:16:05,202 INFO [root] [base.py (base_input:74] - ('xpath', "//input[@placeholder='密码']")输入
+2025-06-26 10:16:05,202 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//input[@id='agreement']")
+2025-06-26 10:16:05,232 INFO [root] [base.py (base_click:46] - 点击('xpath', "//input[@id='agreement']")操作
+2025-06-26 10:16:05,232 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//div[@class='button' and @role='button']/span[text()='登录']")
+2025-06-26 10:16:05,263 INFO [root] [base.py (base_click:46] - 点击('xpath', "//div[@class='button' and @role='button']/span[text()='登录']")操作
+2025-06-26 10:16:05,263 INFO [root] [base.py (base_find_element:27] - 查找元素('css selector', '#username')
+2025-06-26 10:16:05,270 INFO [root] [base.py (base_is_input_empty:138] - 判断输入框('css selector', '#username')是否为空
+2025-06-26 10:16:05,270 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//input[@placeholder='密码']")
+2025-06-26 10:16:05,275 INFO [root] [base.py (base_is_input_empty:138] - 判断输入框('xpath', "//input[@placeholder='密码']")是否为空
+2025-06-26 10:16:05,275 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//input[@id='agreement']")
+2025-06-26 10:16:05,278 INFO [root] [base.py (base_is_checkbox_checked:144] - 判断复选框('xpath', "//input[@id='agreement']")是否为空
+2025-06-26 10:16:05,289 INFO [root] [base.py (base_find_element:27] - 查找元素('css selector', '.OQphwVk_QrhLuedI5-Jme')
+2025-06-26 10:16:05,296 INFO [root] [base.py (base_find_element:27] - 查找元素('css selector', '.NrgjHeg7YBdiFd3U9T_j_')
+2025-06-26 10:16:07,184 INFO [root] [base.py (base_move:110] - 拖动滑块
+2025-06-26 10:16:08,466 INFO [root] [base.py (base_move_to_empty_space:118] - 移动到空白处
+2025-06-26 10:16:08,466 INFO [root] [base.py (base_if_exist:122] - 封装判断元素('xpath', '/html/body/div[1]/div/div[2]/ul/li[3]/a')是否存在
+2025-06-26 10:16:08,467 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', '/html/body/div[1]/div/div[2]/ul/li[3]/a')
+2025-06-26 10:16:08,484 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', '/html/body/div[1]/div/div[2]/ul/li[3]/a')
+2025-06-26 10:16:08,962 INFO [root] [base.py (base_click:46] - 点击('xpath', '/html/body/div[1]/div/div[2]/ul/li[3]/a')操作
+2025-06-26 10:16:08,962 INFO [root] [base.py (base_if_exist:122] - 封装判断元素('xpath', "//a[text()='登录']")是否存在
+2025-06-26 10:16:08,962 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//a[text()='登录']")
+2025-06-26 10:16:08,968 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//a[text()='登录']")
+2025-06-26 10:16:09,189 INFO [root] [base.py (base_click:46] - 点击('xpath', "//a[text()='登录']")操作
+2025-06-26 10:16:09,190 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//div[text()='密码登录']")
+2025-06-26 10:16:09,218 INFO [root] [base.py (base_click:46] - 点击('xpath', "//div[text()='密码登录']")操作
+2025-06-26 10:16:09,693 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//div[text()='密码登录']")
+2025-06-26 10:16:09,729 INFO [root] [base.py (base_click:46] - 点击('xpath', "//div[text()='密码登录']")操作
+2025-06-26 10:16:09,729 INFO [root] [base.py (base_find_element:27] - 查找元素('css selector', '#username')
+2025-06-26 10:16:09,783 INFO [root] [base.py (base_input:74] - ('css selector', '#username')输入
+2025-06-26 10:16:09,783 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//input[@placeholder='密码']")
+2025-06-26 10:16:09,821 INFO [root] [base.py (base_input:74] - ('xpath', "//input[@placeholder='密码']")输入
+2025-06-26 10:16:09,821 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//input[@id='agreement']")
+2025-06-26 10:16:09,845 INFO [root] [base.py (base_click:46] - 点击('xpath', "//input[@id='agreement']")操作
+2025-06-26 10:16:09,846 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//div[@class='button' and @role='button']/span[text()='登录']")
+2025-06-26 10:16:09,869 INFO [root] [base.py (base_click:46] - 点击('xpath', "//div[@class='button' and @role='button']/span[text()='登录']")操作
+2025-06-26 10:16:09,869 INFO [root] [base.py (base_find_element:27] - 查找元素('css selector', '#username')
+2025-06-26 10:16:09,876 INFO [root] [base.py (base_is_input_empty:138] - 判断输入框('css selector', '#username')是否为空
+2025-06-26 10:16:09,876 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//input[@placeholder='密码']")
+2025-06-26 10:16:09,882 INFO [root] [base.py (base_is_input_empty:138] - 判断输入框('xpath', "//input[@placeholder='密码']")是否为空
+2025-06-26 10:16:09,882 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//input[@id='agreement']")
+2025-06-26 10:16:09,885 INFO [root] [base.py (base_is_checkbox_checked:144] - 判断复选框('xpath', "//input[@id='agreement']")是否为空
+2025-06-26 10:16:09,889 INFO [root] [base.py (base_find_element:27] - 查找元素('css selector', '.OQphwVk_QrhLuedI5-Jme')
+2025-06-26 10:16:09,894 INFO [root] [base.py (base_find_element:27] - 查找元素('css selector', '.NrgjHeg7YBdiFd3U9T_j_')
+2025-06-26 10:16:11,699 INFO [root] [base.py (base_move:110] - 拖动滑块
+2025-06-26 10:16:12,965 INFO [root] [base.py (base_move_to_empty_space:118] - 移动到空白处
+2025-06-26 10:16:12,965 INFO [root] [base.py (base_find_element:27] - 查找元素('css selector', '#username')
+2025-06-26 10:16:12,973 INFO [root] [base.py (base_is_input_empty:138] - 判断输入框('css selector', '#username')是否为空
+2025-06-26 10:16:12,973 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//input[@placeholder='密码']")
+2025-06-26 10:16:12,979 INFO [root] [base.py (base_is_input_empty:138] - 判断输入框('xpath', "//input[@placeholder='密码']")是否为空
+2025-06-26 10:16:12,979 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//input[@id='agreement']")
+2025-06-26 10:16:12,983 INFO [root] [base.py (base_is_checkbox_checked:144] - 判断复选框('xpath', "//input[@id='agreement']")是否为空
+2025-06-26 10:16:12,993 INFO [root] [base.py (base_get_text:79] - ('xpath', "//span[text()='用户名或密码错误']")获取文本
+2025-06-26 10:16:12,993 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//span[text()='用户名或密码错误']")
+2025-06-26 10:16:13,198 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//div[text()='密码登录']")
+2025-06-26 10:16:13,226 INFO [root] [base.py (base_click:46] - 点击('xpath', "//div[text()='密码登录']")操作
+2025-06-26 10:16:13,226 INFO [root] [base.py (base_find_element:27] - 查找元素('css selector', '#username')
+2025-06-26 10:16:13,275 INFO [root] [base.py (base_input:74] - ('css selector', '#username')输入
+2025-06-26 10:16:13,275 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//input[@placeholder='密码']")
+2025-06-26 10:16:13,307 INFO [root] [base.py (base_input:74] - ('xpath', "//input[@placeholder='密码']")输入
+2025-06-26 10:16:13,307 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//input[@id='agreement']")
+2025-06-26 10:16:13,331 INFO [root] [base.py (base_click:46] - 点击('xpath', "//input[@id='agreement']")操作
+2025-06-26 10:16:13,331 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//div[@class='button' and @role='button']/span[text()='登录']")
+2025-06-26 10:16:13,354 INFO [root] [base.py (base_click:46] - 点击('xpath', "//div[@class='button' and @role='button']/span[text()='登录']")操作
+2025-06-26 10:16:13,354 INFO [root] [base.py (base_find_element:27] - 查找元素('css selector', '#username')
+2025-06-26 10:16:13,363 INFO [root] [base.py (base_is_input_empty:138] - 判断输入框('css selector', '#username')是否为空
+2025-06-26 10:16:13,363 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//input[@placeholder='密码']")
+2025-06-26 10:16:13,369 INFO [root] [base.py (base_is_input_empty:138] - 判断输入框('xpath', "//input[@placeholder='密码']")是否为空
+2025-06-26 10:16:13,369 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//input[@id='agreement']")
+2025-06-26 10:16:13,373 INFO [root] [base.py (base_is_checkbox_checked:144] - 判断复选框('xpath', "//input[@id='agreement']")是否为空
+2025-06-26 10:16:13,376 INFO [root] [base.py (base_find_element:27] - 查找元素('css selector', '.OQphwVk_QrhLuedI5-Jme')
+2025-06-26 10:16:13,379 INFO [root] [base.py (base_find_element:27] - 查找元素('css selector', '.NrgjHeg7YBdiFd3U9T_j_')
+2025-06-26 10:16:15,192 INFO [root] [base.py (base_move:110] - 拖动滑块
+2025-06-26 10:16:16,475 INFO [root] [base.py (base_move_to_empty_space:118] - 移动到空白处
+2025-06-26 10:16:16,476 INFO [root] [base.py (base_find_element:27] - 查找元素('css selector', '#username')
+2025-06-26 10:16:16,490 INFO [root] [base.py (base_is_input_empty:138] - 判断输入框('css selector', '#username')是否为空
+2025-06-26 10:16:16,490 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//input[@placeholder='密码']")
+2025-06-26 10:16:16,499 INFO [root] [base.py (base_is_input_empty:138] - 判断输入框('xpath', "//input[@placeholder='密码']")是否为空
+2025-06-26 10:16:16,499 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//input[@id='agreement']")
+2025-06-26 10:16:16,503 INFO [root] [base.py (base_is_checkbox_checked:144] - 判断复选框('xpath', "//input[@id='agreement']")是否为空
+2025-06-26 10:16:16,515 INFO [root] [base.py (base_get_text:79] - ('xpath', "//span[text()='密码格式错误']")获取文本
+2025-06-26 10:16:16,515 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//span[text()='密码格式错误']")
+2025-06-26 10:16:16,715 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//div[text()='密码登录']")
+2025-06-26 10:16:16,742 INFO [root] [base.py (base_click:46] - 点击('xpath', "//div[text()='密码登录']")操作
+2025-06-26 10:16:16,742 INFO [root] [base.py (base_find_element:27] - 查找元素('css selector', '#username')
+2025-06-26 10:16:16,783 INFO [root] [base.py (base_input:74] - ('css selector', '#username')输入
+2025-06-26 10:16:16,783 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//input[@placeholder='密码']")
+2025-06-26 10:16:16,818 INFO [root] [base.py (base_input:74] - ('xpath', "//input[@placeholder='密码']")输入
+2025-06-26 10:16:16,818 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//input[@id='agreement']")
+2025-06-26 10:16:16,842 INFO [root] [base.py (base_click:46] - 点击('xpath', "//input[@id='agreement']")操作
+2025-06-26 10:16:16,842 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//div[@class='button' and @role='button']/span[text()='登录']")
+2025-06-26 10:16:16,865 INFO [root] [base.py (base_click:46] - 点击('xpath', "//div[@class='button' and @role='button']/span[text()='登录']")操作
+2025-06-26 10:16:16,865 INFO [root] [base.py (base_find_element:27] - 查找元素('css selector', '#username')
+2025-06-26 10:16:16,872 INFO [root] [base.py (base_is_input_empty:138] - 判断输入框('css selector', '#username')是否为空
+2025-06-26 10:16:16,872 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//input[@placeholder='密码']")
+2025-06-26 10:16:16,877 INFO [root] [base.py (base_is_input_empty:138] - 判断输入框('xpath', "//input[@placeholder='密码']")是否为空
+2025-06-26 10:16:16,877 INFO [root] [base.py (base_find_element:27] - 查找元素('css selector', '#username')
+2025-06-26 10:16:16,882 INFO [root] [base.py (base_is_input_empty:138] - 判断输入框('css selector', '#username')是否为空
+2025-06-26 10:16:16,882 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//input[@placeholder='密码']")
+2025-06-26 10:16:16,888 INFO [root] [base.py (base_is_input_empty:138] - 判断输入框('xpath', "//input[@placeholder='密码']")是否为空
+2025-06-26 10:16:16,888 INFO [root] [base.py (base_get_text:79] - ('xpath', "//span[text()='请输入密码']")获取文本
+2025-06-26 10:16:16,888 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//span[text()='请输入密码']")
+2025-06-26 10:16:17,082 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//div[text()='密码登录']")
+2025-06-26 10:16:17,112 INFO [root] [base.py (base_click:46] - 点击('xpath', "//div[text()='密码登录']")操作
+2025-06-26 10:16:17,113 INFO [root] [base.py (base_find_element:27] - 查找元素('css selector', '#username')
+2025-06-26 10:16:17,141 INFO [root] [base.py (base_input:74] - ('css selector', '#username')输入
+2025-06-26 10:16:17,141 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//input[@placeholder='密码']")
+2025-06-26 10:16:17,181 INFO [root] [base.py (base_input:74] - ('xpath', "//input[@placeholder='密码']")输入
+2025-06-26 10:16:17,181 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//input[@id='agreement']")
+2025-06-26 10:16:17,206 INFO [root] [base.py (base_click:46] - 点击('xpath', "//input[@id='agreement']")操作
+2025-06-26 10:16:17,206 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//div[@class='button' and @role='button']/span[text()='登录']")
+2025-06-26 10:16:17,230 INFO [root] [base.py (base_click:46] - 点击('xpath', "//div[@class='button' and @role='button']/span[text()='登录']")操作
+2025-06-26 10:16:17,230 INFO [root] [base.py (base_find_element:27] - 查找元素('css selector', '#username')
+2025-06-26 10:16:17,236 INFO [root] [base.py (base_is_input_empty:138] - 判断输入框('css selector', '#username')是否为空
+2025-06-26 10:16:17,236 INFO [root] [base.py (base_find_element:27] - 查找元素('css selector', '#username')
+2025-06-26 10:16:17,242 INFO [root] [base.py (base_is_input_empty:138] - 判断输入框('css selector', '#username')是否为空
+2025-06-26 10:16:17,243 INFO [root] [base.py (base_get_text:79] - ('xpath', "//span[text()='请输入手机/邮箱/用户名']")获取文本
+2025-06-26 10:16:17,243 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//span[text()='请输入手机/邮箱/用户名']")
+2025-06-26 10:16:19,393 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//div[text()='密码登录']")
+2025-06-26 10:16:19,421 INFO [root] [base.py (base_click:46] - 点击('xpath', "//div[text()='密码登录']")操作
+2025-06-26 10:16:22,001 WARNING [selenium.webdriver.common.selenium_manager] [selenium_manager.py (_process_logs:138] - Exception managing chrome: error sending request for url (https://googlechromelabs.github.io/chrome-for-testing/known-good-versions-with-downloads.json)
+2025-06-26 10:16:23,320 INFO [root] [base.py (__init__:21] - 初始化driver
+2025-06-26 10:16:23,320 INFO [root] [base.py (__init__:21] - 初始化driver
+2025-06-26 10:16:23,320 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//div[contains(text(), '关于去哪儿')]")
+2025-06-26 10:16:23,874 INFO [root] [base.py (base_click:46] - 点击('xpath', "//div[contains(text(), '关于去哪儿')]")操作
+2025-06-26 10:16:23,883 INFO [root] [base.py (base_change_window:63] - 切换窗口
+2025-06-26 10:16:23,883 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//a[text()='登录']")
+2025-06-26 10:16:26,122 INFO [root] [base.py (base_click:46] - 点击('xpath', "//a[text()='登录']")操作
+2025-06-26 10:16:26,122 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//div[text()='密码登录']")
+2025-06-26 10:16:26,163 INFO [root] [base.py (base_click:46] - 点击('xpath', "//div[text()='密码登录']")操作
+2025-06-26 10:16:26,163 INFO [root] [base.py (base_find_element:27] - 查找元素('css selector', '#username')
+2025-06-26 10:16:26,242 INFO [root] [base.py (base_input:74] - ('css selector', '#username')输入
+2025-06-26 10:16:26,243 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//input[@placeholder='密码']")
+2025-06-26 10:16:26,293 INFO [root] [base.py (base_input:74] - ('xpath', "//input[@placeholder='密码']")输入
+2025-06-26 10:16:26,293 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//input[@id='agreement']")
+2025-06-26 10:16:26,322 INFO [root] [base.py (base_click:46] - 点击('xpath', "//input[@id='agreement']")操作
+2025-06-26 10:16:26,322 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//div[@class='button' and @role='button']/span[text()='登录']")
+2025-06-26 10:16:26,353 INFO [root] [base.py (base_click:46] - 点击('xpath', "//div[@class='button' and @role='button']/span[text()='登录']")操作
+2025-06-26 10:16:26,353 INFO [root] [base.py (base_find_element:27] - 查找元素('css selector', '#username')
+2025-06-26 10:16:26,362 INFO [root] [base.py (base_is_input_empty:138] - 判断输入框('css selector', '#username')是否为空
+2025-06-26 10:16:26,362 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//input[@placeholder='密码']")
+2025-06-26 10:16:26,369 INFO [root] [base.py (base_is_input_empty:138] - 判断输入框('xpath', "//input[@placeholder='密码']")是否为空
+2025-06-26 10:16:26,369 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//input[@id='agreement']")
+2025-06-26 10:16:26,376 INFO [root] [base.py (base_is_checkbox_checked:144] - 判断复选框('xpath', "//input[@id='agreement']")是否为空
+2025-06-26 10:16:26,382 INFO [root] [base.py (base_find_element:27] - 查找元素('css selector', '.OQphwVk_QrhLuedI5-Jme')
+2025-06-26 10:16:26,389 INFO [root] [base.py (base_find_element:27] - 查找元素('css selector', '.NrgjHeg7YBdiFd3U9T_j_')

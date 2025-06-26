@@ -1,0 +1,73 @@
+2025-06-26 10:16:28,330 INFO [root] [base.py (base_move:110] - 拖动滑块
+2025-06-26 10:16:29,608 INFO [root] [base.py (base_move_to_empty_space:118] - 移动到空白处
+2025-06-26 10:16:29,608 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//b[text()='攻略']")
+2025-06-26 10:16:31,622 INFO [root] [base.py (base_click:46] - 点击('xpath', "//b[text()='攻略']")操作
+2025-06-26 10:16:31,622 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//a[@class='link' and @href='//travel.qunar.com/youji/create']")
+2025-06-26 10:16:31,709 INFO [root] [base.py (base_click:46] - 点击('xpath', "//a[@class='link' and @href='//travel.qunar.com/youji/create']")操作
+2025-06-26 10:16:31,809 INFO [root] [base.py (base_change_window:63] - 切换窗口
+2025-06-26 10:16:32,817 INFO [root] [base.py (base_if_exist:122] - 封装判断元素('xpath', '/html/body/div[2]/div/div[2]/a')是否存在
+2025-06-26 10:16:32,817 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', '/html/body/div[2]/div/div[2]/a')
+2025-06-26 10:16:32,824 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', '/html/body/div[2]/div/div[2]/a')
+2025-06-26 10:16:33,708 INFO [root] [base.py (base_click:46] - 点击('xpath', '/html/body/div[2]/div/div[2]/a')操作
+2025-06-26 10:16:33,708 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//*[@id='b_note_hd']/div[2]/a")
+2025-06-26 10:16:33,760 INFO [root] [base.py (base_click:46] - 点击('xpath', "//*[@id='b_note_hd']/div[2]/a")操作
+2025-06-26 10:16:33,761 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//input[contains(@class, 'title_input')]")
+2025-06-26 10:16:33,796 INFO [root] [base.py (base_input:74] - ('xpath', "//input[contains(@class, 'title_input')]")输入
+2025-06-26 10:16:34,797 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', '/html/body/div[2]/div[2]/div/div[2]/div/div[1]/div[1]/div[2]/div/div[1]/div[2]/div/div/div[2]/div/textarea')
+2025-06-26 10:16:34,847 INFO [root] [base.py (base_click:46] - 点击('xpath', '/html/body/div[2]/div[2]/div/div[2]/div/div[1]/div[1]/div[2]/div/div[1]/div[2]/div/div/div[2]/div/textarea')操作
+2025-06-26 10:16:34,847 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', '/html/body/div[2]/div[2]/div/div[2]/div/div[1]/div[1]/div[2]/div/div[1]/div[2]/div/div/div[2]/div/textarea')
+2025-06-26 10:16:34,986 INFO [root] [base.py (base_input:74] - ('xpath', '/html/body/div[2]/div[2]/div/div[2]/div/div[1]/div[1]/div[2]/div/div[1]/div[2]/div/div/div[2]/div/textarea')输入
+2025-06-26 10:16:35,993 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//textarea[@data-placeholder='添加随记、交通或旅游心得']")
+2025-06-26 10:16:36,026 INFO [root] [base.py (base_click:46] - 点击('xpath', "//textarea[@data-placeholder='添加随记、交通或旅游心得']")操作
+2025-06-26 10:16:36,026 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//textarea[@data-placeholder='添加随记、交通或旅游心得']")
+2025-06-26 10:16:36,169 INFO [root] [base.py (base_input:74] - ('xpath', "//textarea[@data-placeholder='添加随记、交通或旅游心得']")输入
+2025-06-26 10:16:37,181 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//a[@class='finish_note_btn js_finish_note' and @data-beacon='Submit_bottom']")
+2025-06-26 10:16:37,232 INFO [root] [base.py (base_click:46] - 点击('xpath', "//a[@class='finish_note_btn js_finish_note' and @data-beacon='Submit_bottom']")操作
+2025-06-26 10:16:38,235 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//*[@id='dlg2']/div/div/div[2]/a")
+2025-06-26 10:16:38,283 INFO [root] [base.py (base_click:46] - 点击('xpath', "//*[@id='dlg2']/div/div/div[2]/a")操作
+2025-06-26 10:16:40,297 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//a[@class='link' and @href='//travel.qunar.com/youji/create']")
+2025-06-26 10:16:40,356 INFO [root] [base.py (base_click:46] - 点击('xpath', "//a[@class='link' and @href='//travel.qunar.com/youji/create']")操作
+2025-06-26 10:16:40,450 INFO [root] [base.py (base_change_window:63] - 切换窗口
+2025-06-26 10:16:41,465 INFO [root] [base.py (base_if_exist:122] - 封装判断元素('xpath', '/html/body/div[2]/div/div[2]/a')是否存在
+2025-06-26 10:16:41,465 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', '/html/body/div[2]/div/div[2]/a')
+2025-06-26 10:16:41,490 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', '/html/body/div[2]/div/div[2]/a')
+2025-06-26 10:16:42,235 INFO [root] [base.py (base_click:46] - 点击('xpath', '/html/body/div[2]/div/div[2]/a')操作
+2025-06-26 10:16:42,235 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//*[@id='b_note_hd']/div[2]/a")
+2025-06-26 10:16:42,273 INFO [root] [base.py (base_click:46] - 点击('xpath', "//*[@id='b_note_hd']/div[2]/a")操作
+2025-06-26 10:16:42,273 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//input[contains(@class, 'title_input')]")
+2025-06-26 10:16:42,298 INFO [root] [base.py (base_input:74] - ('xpath', "//input[contains(@class, 'title_input')]")输入
+2025-06-26 10:16:43,313 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', '/html/body/div[2]/div[2]/div/div[2]/div/div[1]/div[1]/div[2]/div/div[1]/div[2]/div/div/div[2]/div/textarea')
+2025-06-26 10:16:43,371 INFO [root] [base.py (base_click:46] - 点击('xpath', '/html/body/div[2]/div[2]/div/div[2]/div/div[1]/div[1]/div[2]/div/div[1]/div[2]/div/div/div[2]/div/textarea')操作
+2025-06-26 10:16:43,371 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', '/html/body/div[2]/div[2]/div/div[2]/div/div[1]/div[1]/div[2]/div/div[1]/div[2]/div/div/div[2]/div/textarea')
+2025-06-26 10:16:43,479 INFO [root] [base.py (base_input:74] - ('xpath', '/html/body/div[2]/div[2]/div/div[2]/div/div[1]/div[1]/div[2]/div/div[1]/div[2]/div/div/div[2]/div/textarea')输入
+2025-06-26 10:16:44,491 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//textarea[@data-placeholder='添加随记、交通或旅游心得']")
+2025-06-26 10:16:44,549 INFO [root] [base.py (base_click:46] - 点击('xpath', "//textarea[@data-placeholder='添加随记、交通或旅游心得']")操作
+2025-06-26 10:16:44,549 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//textarea[@data-placeholder='添加随记、交通或旅游心得']")
+2025-06-26 10:16:44,565 INFO [root] [base.py (base_input:74] - ('xpath', "//textarea[@data-placeholder='添加随记、交通或旅游心得']")输入
+2025-06-26 10:16:45,581 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//a[@class='finish_note_btn js_finish_note' and @data-beacon='Submit_bottom']")
+2025-06-26 10:16:45,625 INFO [root] [base.py (base_click:46] - 点击('xpath', "//a[@class='finish_note_btn js_finish_note' and @data-beacon='Submit_bottom']")操作
+2025-06-26 10:16:47,627 INFO [root] [base.py (base_get_text:79] - ('xpath', "//div[@class='tit_tip' and @style='display: block;']/span")获取文本
+2025-06-26 10:16:47,627 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//div[@class='tit_tip' and @style='display: block;']/span")
+2025-06-26 10:16:47,724 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//a[@class='link' and @href='//travel.qunar.com/youji/create']")
+2025-06-26 10:16:47,768 INFO [root] [base.py (base_click:46] - 点击('xpath', "//a[@class='link' and @href='//travel.qunar.com/youji/create']")操作
+2025-06-26 10:16:47,779 INFO [root] [base.py (base_change_window:63] - 切换窗口
+2025-06-26 10:16:48,783 INFO [root] [base.py (base_if_exist:122] - 封装判断元素('xpath', '/html/body/div[2]/div/div[2]/a')是否存在
+2025-06-26 10:16:48,784 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', '/html/body/div[2]/div/div[2]/a')
+2025-06-26 10:16:48,810 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', '/html/body/div[2]/div/div[2]/a')
+2025-06-26 10:16:49,597 INFO [root] [base.py (base_click:46] - 点击('xpath', '/html/body/div[2]/div/div[2]/a')操作
+2025-06-26 10:16:49,597 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//*[@id='b_note_hd']/div[2]/a")
+2025-06-26 10:16:49,636 INFO [root] [base.py (base_click:46] - 点击('xpath', "//*[@id='b_note_hd']/div[2]/a")操作
+2025-06-26 10:16:49,636 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//input[contains(@class, 'title_input')]")
+2025-06-26 10:16:49,669 INFO [root] [base.py (base_input:74] - ('xpath', "//input[contains(@class, 'title_input')]")输入
+2025-06-26 10:16:50,673 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', '/html/body/div[2]/div[2]/div/div[2]/div/div[1]/div[1]/div[2]/div/div[1]/div[2]/div/div/div[2]/div/textarea')
+2025-06-26 10:16:50,736 INFO [root] [base.py (base_click:46] - 点击('xpath', '/html/body/div[2]/div[2]/div/div[2]/div/div[1]/div[1]/div[2]/div/div[1]/div[2]/div/div/div[2]/div/textarea')操作
+2025-06-26 10:16:50,736 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', '/html/body/div[2]/div[2]/div/div[2]/div/div[1]/div[1]/div[2]/div/div[1]/div[2]/div/div/div[2]/div/textarea')
+2025-06-26 10:16:50,904 INFO [root] [base.py (base_input:74] - ('xpath', '/html/body/div[2]/div[2]/div/div[2]/div/div[1]/div[1]/div[2]/div/div[1]/div[2]/div/div/div[2]/div/textarea')输入
+2025-06-26 10:16:51,915 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//textarea[@data-placeholder='添加随记、交通或旅游心得']")
+2025-06-26 10:16:51,978 INFO [root] [base.py (base_click:46] - 点击('xpath', "//textarea[@data-placeholder='添加随记、交通或旅游心得']")操作
+2025-06-26 10:16:51,978 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//textarea[@data-placeholder='添加随记、交通或旅游心得']")
+2025-06-26 10:16:52,087 INFO [root] [base.py (base_input:74] - ('xpath', "//textarea[@data-placeholder='添加随记、交通或旅游心得']")输入
+2025-06-26 10:16:53,095 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//a[@class='finish_note_btn js_finish_note' and @data-beacon='Submit_bottom']")
+2025-06-26 10:16:53,154 INFO [root] [base.py (base_click:46] - 点击('xpath', "//a[@class='finish_note_btn js_finish_note' and @data-beacon='Submit_bottom']")操作
+2025-06-26 10:16:54,156 INFO [root] [base.py (base_find_element:27] - 查找元素('xpath', "//*[@id='dlg2']/div/div/div[2]/a")
+2025-06-26 10:16:54,209 INFO [root] [base.py (base_click:46] - 点击('xpath', "//*[@id='dlg2']/div/div/div[2]/a")操作
