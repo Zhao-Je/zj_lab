@@ -815,7 +815,6 @@ class TestProgram(unittest.TestProgram):
         unittest.TestProgram.runTests(self)
 
 main = TestProgram
-
 ##############################################################################
 # Executing this module from the command line
 ##############################################################################
